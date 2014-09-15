@@ -1,6 +1,7 @@
 ionicTest
 =========
 2014-09-14
+----------
 - cloned to sdbmacbookair
 
 2014-09-15
